@@ -1,6 +1,6 @@
 # ENSE 271 Group Project
 
-## Group Name: **OctiveMandolins**
+ Group Name: **OctiveMandolins**
 
 ## Group Members
 
