@@ -1,6 +1,6 @@
 # Folder Structure
 <pre>
-Activity 1                       # Activity #1 Deliverables
+Project Ins                      # Activity #1 Deliverables
 ┣ Empathy Maps                   # Contains all the empathy maps created by each group member  
 ┃ ┣ Empathy Map Adam.pdf         #
 ┃ ┣ Empathy Map Julian.pdf       #
