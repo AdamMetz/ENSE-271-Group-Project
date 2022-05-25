@@ -1,6 +1,6 @@
 # Folder Structure
 <pre>
-initial-prototyping
+initial-prototyping                             # Activity #2 Deliverables
  ┣ initial-site-maps                            # Each group members site map
  ┃ ┣ Adam-sitemap.PNG
  ┃ ┣ Julian_Sitemap.PNG
