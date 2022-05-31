@@ -1,7 +1,7 @@
 # Folder Structure
 <pre>
-Project Ins                      # Activity #1 Deliverables
-┣ Empathy Maps                   # Contains all the empathy maps created by each group member  
+project-insights                 # Activity #1 Deliverables
+┣ empathy-maps                   # Contains all the empathy maps created by each group member  
 ┃ ┣ Empathy Map Adam.pdf         #
 ┃ ┣ Empathy Map Julian.pdf       #
 ┃ ┣ Empathy Map Mackenzie.pdf    #
