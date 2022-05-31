@@ -1,3 +1,5 @@
+# Folder Structure
+<pre>
 Hifi prototyping                                # Activity #3 Deliverables
  ┣ Figma screenshots                            # prototype images for desktop and mobile 
  ┃ ┣ Desktop-prototype
@@ -9,3 +11,4 @@ Hifi prototyping                                # Activity #3 Deliverables
  ┣ Final Site Map.PNG                           # Site map made as a team
  ┣ Summarized Customer Notes.pdf                # Summarized customer notes from our meeting with customers on May 30th
  ┗ User Story Map.pdf                           # Updated User Story Map
+ </pre>
